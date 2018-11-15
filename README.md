@@ -83,6 +83,11 @@ https://visualstudio.microsoft.com/services/live-share/
 https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 
+Disclamer note:
+with regards of the security when using liveshare VScode
+https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/security
+
+
 ## GitLens — Git supercharged
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
